@@ -1,0 +1,7 @@
+9fail% 8c ☺☻☹.c 
+☺☻☹.c:9 sizeof undefined type
+☺☻☹.c:9 enum not a constant: ☻☺☹
+☺☻☹.c:17 name not declared: ☻☺☹
+☺☻☹.c:19 name not declared: ☻☺☹
+9fail%
+
